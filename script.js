@@ -1,6 +1,3 @@
-
-// We will write our JavaScript code here
-
 var resetBtn = document.querySelector("#reset");
 var saveBtn = document.querySelector("#save");
 var uploadBtn = document.querySelector("#upload");
