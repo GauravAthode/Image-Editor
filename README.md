@@ -41,7 +41,11 @@ This project was completed during a **3-Day Image Editor Bootcamp**.
 
 ### Certificate Image
 
+<<<<<<< HEAD
 ![Image Editor Bootcamp Certificate](image-editor-bootcamp-certificate.jpg)
+=======
+![Image Editor Bootcamp Certificate](image-editor-bootcamp-certificate.png)
+>>>>>>> 57ff212c5cf4f1ea23b585e41714d8a4f4d0adf7
 
 ---
 

@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 // We will write our JavaScript code here
 
+=======
+>>>>>>> 57ff212c5cf4f1ea23b585e41714d8a4f4d0adf7
 var resetBtn = document.querySelector("#reset");
 var saveBtn = document.querySelector("#save");
 var uploadBtn = document.querySelector("#upload");
