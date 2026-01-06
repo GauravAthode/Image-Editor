@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 
 /* Import Google font - Poppins */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
 /* We'll write our CSS Code here */
-=======
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
->>>>>>> 57ff212c5cf4f1ea23b585e41714d8a4f4d0adf7
 * {
   margin: 0;
   padding: 0;
